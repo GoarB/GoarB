@@ -53,7 +53,7 @@ public class Goar {
 
 <!-- ================================ -->
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2tmaHJib2poa3RlaTQzenAzdXMwM2k2NW03Y2tjOW53YWpnd3h1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif" width="650"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHM0bDlweWhxN2VoeDZ0M3ZxMGhmbDVmaGI5YmJwMGcyOGpoZzlncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="650"/>
 
 </div>
 
