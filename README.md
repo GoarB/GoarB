@@ -1,7 +1,9 @@
 <div align="center">
 
 👋 Goar Bosque here!
+
 💻 Actually estuding Development at ITB (Barcelona)
+
 📍 Based in Sant Quirze del Vallés.
 
 <br>
