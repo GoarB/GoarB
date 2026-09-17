@@ -28,11 +28,11 @@ public class Goar {
 
 <!-- ================================ -->
 
-<!-- GIF 1 - https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJyNDR1OGdhd3B0YnVhbGVmMjRyOGNycGEyaGlvdHF0MXZjM2t3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TKL99l61UBNnnQSx4o/giphy.gif -->
+<!-- GIF 1 - Sustituye URL_DEL_GIF_1 -->
 
 <!-- ================================ -->
 
-<img src="URL_DEL_GIF_1" width="650"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZwNzlvaG84YWJ0N3E3NTlpbXgycW1hMDk2dXZkM3k5Z2FrMmhhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgG50Fb7Mi0prBC/giphy.gif" width="650"/>
 
 </div>
 
@@ -49,11 +49,11 @@ public class Goar {
 
 <!-- ================================ -->
 
-<!-- GIF 2 - (https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Rlb2s0ZGt3dGt0cWhkczQzZGllbGwwNWlzdXlyazU1eG1sNjYyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgG50Fb7Mi0prBC/giphy.gif) -->
+<!-- GIF 2 - Sustituye URL_DEL_GIF_2 -->
 
 <!-- ================================ -->
 
-<img src="URL_DEL_GIF_2" width="650"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWI1eDJjZDN1ZDF5MzYwczN6Nnk5bGVoeWt6dngzMHJ5azZhMTZjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zoFBRfQo68Zqw/giphy.gif" width="650"/>
 
 </div>
 
@@ -87,11 +87,11 @@ while(alive) { learn(); code(); improve(); }
 
 <!-- ================================ -->
 
-<!-- GIF 3 - https://giphy.com/gifs/heart-love-you-finger-X7ZPJ9PIUwhTaZqQNL -->
+<!-- GIF 3 - Sustituye URL_DEL_GIF_3 -->
 
 <!-- ================================ -->
 
-<img src="URL_DEL_GIF_3" width="650"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWg0bW5kbTJkM3RqbWpxNXF3aGR5MDRwNm9oOHIzaGZqYTl5dzUxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lNCQJsudeT77G/giphy.gif" width="650"/>
 
 <br><br>
 
@@ -104,4 +104,4 @@ Thanks for visiting my profile! 👾
 
 ⌨️ Code. Learn. Repeat.
 
-</div> 
+</div>
