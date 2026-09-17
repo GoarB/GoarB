@@ -10,20 +10,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Developer+in+progress...;Learning+something+new+every+day;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
 
-</div>
-
-👨‍💻 About me
-public class Goar {
-
-    String location = "Sant Quirze del Vallès, Barcelona";
-    String studies = "Development @ ITB";
-    String status = "Learning & building";
-    
-    void code() {
-        System.out.println("Keep learning. Keep building. 🚀");
-    }
-}
-
 <div align="center">
 
 🎬 Life.exe
