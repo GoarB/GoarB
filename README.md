@@ -24,17 +24,12 @@
 
 </div>
 
-🚀 Currently
+🚀 Currently:
 
-🎓 Studying Development at ITB — Barcelona
+🎓 Studying Development at ITB — Barcelona                                💻 Learning Software Development
 
-💻 Learning Software Development
+🧠 Improving my programming skills every day                               🛠️ Building projects and experimenting with new technologies
 
-🧠 Improving my programming skills every day
-
-🛠️ Building projects and experimenting with new technologies
-
-🌱 Always learning something new
 
 <div align="center">
 
@@ -97,4 +92,7 @@ Thanks for visiting my profile! 👾
 
 ⌨️ Code. Learn. Repeat.
 
+<div align="center">
+
+  Especial dedicació al profesor d'autoescola del David 
 </div>
