@@ -32,7 +32,7 @@ public class Goar {
 
 <!-- ================================ -->
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZwNzlvaG84YWJ0N3E3NTlpbXgycW1hMDk2dXZkM3k5Z2FrMmhhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgG50Fb7Mi0prBC/giphy.gif" width="650"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG5kNnd3MWRqZTB3ZG80Z2c4NTdqdmQ3YTg3ZHlsZjN5c2ZnZmtsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3PAL5bChWnak0WJ32x/giphy.gif" width="650"/>
 
 </div>
 
@@ -53,7 +53,7 @@ public class Goar {
 
 <!-- ================================ -->
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWI1eDJjZDN1ZDF5MzYwczN6Nnk5bGVoeWt6dngzMHJ5azZhMTZjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zoFBRfQo68Zqw/giphy.gif" width="650"/>
+<img src="(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2tmaHJib2poa3RlaTQzenAzdXMwM2k2NW03Y2tjOW53YWpnd3h1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif)" width="650"/>
 
 </div>
 
@@ -91,7 +91,7 @@ while(alive) { learn(); code(); improve(); }
 
 <!-- ================================ -->
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWg0bW5kbTJkM3RqbWpxNXF3aGR5MDRwNm9oOHIzaGZqYTl5dzUxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lNCQJsudeT77G/giphy.gif" width="650"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDZ1MnZzMHh0bnR1NjZvZTB5ZDJ4ZW5oeG5laHdhZG9ydGtrazg1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QyP6uP8q1S5GZKHRAd/giphy.gif" width="650"/>
 
 <br><br>
 
