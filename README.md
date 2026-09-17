@@ -32,7 +32,7 @@ public class Goar {
 
 <!-- ================================ -->
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG5kNnd3MWRqZTB3ZG80Z2c4NTdqdmQ3YTg3ZHlsZjN5c2ZnZmtsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3PAL5bChWnak0WJ32x/giphy.gif" width="650"/>
+<img src="https://giphy.com/gifs/justin-hi-baby-goat-3PAL5bChWnak0WJ32x" width="650"/>
 
 </div>
 
