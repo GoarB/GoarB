@@ -2,74 +2,95 @@
   <img src="./assets/cyberpunk-neon.svg" alt="Goar Bosque — cyberpunk profile" width="100%" />
 </p>
 
-// whoami
+<div align="center">
 
-development student based near barcelona, currently studying software development at itb. learning by building, breaking and improving things one project at a time.
+👋 Goar Bosque here!
+💻 Actually estuding Development at ITB (Barcelona)
+📍 Based in Sant Quirze del Vallés.
 
-// currently
+<br>
 
-🎓 studying development at itb · barcelona
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Developer+in+progress...;Learning+something+new+every+day;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
 
-💻 learning software development
+</div>
 
-🧠 improving my programming skills every day
+👨‍💻 About me
+public class Goar {
 
-🛠️ building projects and experimenting with new technologies
-
-// life.exe
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJkOXR5NXA0cmJkb2QwdGU3ZWQ4dmx1ZDI2Y3o0OWJ2NmlzdDhvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W3keANaGsQLC5Ri8DM/giphy.gif" width="650" alt="Life.exe GIF" />
-</p>
-
-// developer_mode
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHM0bDlweWhxN2VoeDZ0M3ZxMGhmbDVmaGI5YmJwMGcyOGpoZzlncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="650" alt="Developer Mode GIF" />
-</p>
-
-// tech_&_tools
-
-java · python · git · github · linux · vs code
-
-// philosophy
-
-while (alive) {
-    learn();
-    code();
-    improve();
+    String location = "Sant Quirze del Vallès, Barcelona";
+    String studies = "Development @ ITB";
+    String status = "Learning & building";
+    
+    void code() {
+        System.out.println("Keep learning. Keep building. 🚀");
+    }
 }
 
-learn → build → break → fix → improve
+<div align="center">
 
-// projects
+🎬 Life.exe
 
-student_projects.db // waiting for new entries...
 
-<!--
-Añade aquí los proyectos del grado.
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJkOXR5NXA0cmJkb2QwdGU3ZWQ4dmx1ZDI2Y3o0OWJ2NmlzdDhvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W3keANaGsQLC5Ri8DM/giphy.gif" width="650"/>
 
-Ejemplo:
+</div>
 
-#### project_name.exe
+🚀 Currently
+🎓 Studying Development at ITB — Barcelona
+💻 Learning Software Development
+🧠 Improving my programming skills every day
+🛠️ Building projects and experimenting with new technologies
+🌱 Always learning something new
 
-Breve descripción del proyecto.
+<div align="center">
 
-`java` · `mysql` · `git`
+👾 Developer Mode
 
-[repository](ENLACE)
--->
 
-// meanwhile
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHM0bDlweWhxN2VoeDZ0M3ZxMGhmbDVmaGI5YmJwMGcyOGpoZzlncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="650"/>
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDZ1MnZzMHh0bnR1NjZvZTB5ZDJ4ZW5oeG5laHdhZG9ydGtrazg1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QyP6uP8q1S5GZKHRAd/giphy.gif" width="650" alt="Meanwhile GIF" />
-</p>
+</div>
 
-<p align="center">
-  <code>⌨️ code. learn. repeat.</code>
-</p>
+🧰 Tech & Tools
 
-<p align="center">
-  <sub>Especial dedicació al profesor d'autoescola del David</sub>
-</p>
+<div align="center">
+
+
+
+
+
+
+
+
+
+</div>
+
+🧠 Philosophy
+
+<div align="center">
+
+while(alive) { learn(); code(); improve(); }
+
+💡 Learn → ⚙️ Build → 🐛 Break things → 🔧 Fix them → 🚀 Improve
+
+</div>
+
+<div align="center">
+
+☕ Meanwhile...
+
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDZ1MnZzMHh0bnR1NjZvZTB5ZDJ4ZW5oeG5laHdhZG9ydGtrazg1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QyP6uP8q1S5GZKHRAd/giphy.gif" width="650"/>
+
+<br><br>
+
+Thanks for visiting my profile! 👾
+
+
+
+
+<br>
+
+⌨️ Code. Learn. Repeat.
+
+</div>
