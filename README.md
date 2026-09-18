@@ -11,9 +11,7 @@
 </div>
 
 
-👋 Goar Bosque here!
-💻 Actually estuding Development at ITB (Barcelona)
-📍 Based in Sant Quirze del Vallés.
+👋 Goar Bosque here!            💻 Actually estuding Development at ITB (Barcelona)          📍 Based in Sant Quirze del Vallés.
 
 <div align="center">
 
@@ -22,7 +20,7 @@
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJkOXR5NXA0cmJkb2QwdGU3ZWQ4dmx1ZDI2Y3o0OWJ2NmlzdDhvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W3keANaGsQLC5Ri8DM/giphy.gif" width="650"/>
 
-</div align="center">
+<div align="center">
 
 🚀 Currently:
 </div>
