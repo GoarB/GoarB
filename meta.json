@@ -3,7 +3,7 @@
   "name": "Cyberpunk Neon — Goar Bosque",
   "kind": "svg",
   "difficulty": "Advanced",
-  "blurb": "Cyberpunk developer profile for Goar Bosque.",
+  "blurb": "Self-hosted cyberpunk profile banner customized for Goar Bosque.",
   "asset": "assets/cyberpunk-neon.svg",
   "picture": false,
   "tags": [
@@ -16,64 +16,39 @@
   "placeholders": [
     {
       "token": "name",
-      "where": "markdown",
-      "description": "Title text, ALL_CAPS_WITH_UNDERSCORES",
+      "where": "asset",
+      "description": "Main display name",
       "example": "GOAR_BOSQUE"
     },
     {
       "token": "role",
       "where": "asset",
-      "description": "Subtitle",
+      "description": "Subtitle / role",
       "example": "DEVELOPMENT.STUDENT"
     },
     {
       "token": "location_stamp",
       "where": "asset",
-      "description": "Top-left corner",
+      "description": "Top-left location stamp",
       "example": "SANT_QUIRZE.SECTOR_BCN"
     },
     {
       "token": "status_pill",
       "where": "asset",
-      "description": "Bottom-left phrase",
+      "description": "Bottom status line",
       "example": "JACKED IN · DEV MODE ACTIVE · LEARNING"
     },
     {
       "token": "tags_list",
       "where": "asset",
-      "description": "Four uppercase chip labels",
+      "description": "Technology tags",
       "example": "[ JAVA ] [ PYTHON ] [ GIT ] [ LINUX ]"
-    },
-    {
-      "token": "bio_lowercase",
-      "where": "markdown",
-      "description": "1–2 sentences in lowercase only",
-      "example": "development student based near barcelona, currently studying software development at itb."
-    },
-    {
-      "token": "currently_*",
-      "where": "markdown",
-      "description": "lowercase bullets",
-      "example": "studying development at itb · barcelona"
-    },
-    {
-      "token": "website",
-      "where": "markdown",
-      "description": "Domain",
-      "example": ""
-    },
-    {
-      "token": "twitter",
-      "where": "markdown",
-      "description": "Handle without @",
-      "example": ""
-    },
-    {
-      "token": "email",
-      "where": "markdown",
-      "description": "Email",
-      "example": ""
     }
   ],
-  "credits": []
+  "credits": [
+    {
+      "name": "Design concept inspired by awesome-github-profile / Cyberpunk Neon",
+      "license": "MIT"
+    }
+  ]
 }
