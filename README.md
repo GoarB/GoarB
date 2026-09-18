@@ -2,11 +2,7 @@
   <img src="./assets/cyberpunk-neon.svg" alt="Goar Bosque — cyberpunk profile" width="100%" />
 </p>
 
-<div align="center">
 
-👋 Goar Bosque here!
-💻 Actually estuding Development at ITB (Barcelona)
-📍 Based in Sant Quirze del Vallés.
 
 <br>
 
@@ -15,16 +11,10 @@
 </div>
 
 👨‍💻 About me
-public class Goar {
 
-    String location = "Sant Quirze del Vallès, Barcelona";
-    String studies = "Development @ ITB";
-    String status = "Learning & building";
-    
-    void code() {
-        System.out.println("Keep learning. Keep building. 🚀");
-    }
-}
+👋 Goar Bosque here!
+💻 Actually estuding Development at ITB (Barcelona)
+📍 Based in Sant Quirze del Vallés.
 
 <div align="center">
 
