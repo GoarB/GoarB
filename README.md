@@ -51,21 +51,6 @@ public class Goar {
 
 </div>
 
-🧰 Tech & Tools
-
-<div align="center">
-
-
-
-
-
-
-
-
-
-</div>
-
-🧠 Philosophy
 
 <div align="center">
 
