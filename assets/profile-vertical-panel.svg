@@ -1,6 +1,6 @@
-<svg width="1200" height="2500" viewBox="0 0 1200 2500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="2700" viewBox="0 0 1200 2700" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="2500" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="2700" gradientUnits="userSpaceOnUse">
       <stop stop-color="#04040E"/>
       <stop offset="0.45" stop-color="#0A0A1A"/>
       <stop offset="1" stop-color="#13061C"/>
@@ -45,15 +45,16 @@
       .white { fill: #F2F5FF; }
       .panelTitle { font-size: 28px; letter-spacing: 3px; font-weight: 700; }
       .quote { font-size: 30px; letter-spacing: 0.6px; font-weight: 700; }
+      .placeholder { font-size: 34px; letter-spacing: 4px; font-weight: 700; }
     </style>
   </defs>
 
-  <rect width="1200" height="2500" rx="26" fill="url(#bg)"/>
-  <rect x="1.5" y="1.5" width="1197" height="2497" rx="24.5" stroke="#00F7FF" stroke-opacity="0.25" stroke-width="3"/>
-  <rect width="1200" height="2500" rx="26" fill="url(#grid)"/>
+  <rect width="1200" height="2700" rx="26" fill="url(#bg)"/>
+  <rect x="1.5" y="1.5" width="1197" height="2697" rx="24.5" stroke="#00F7FF" stroke-opacity="0.25" stroke-width="3"/>
+  <rect width="1200" height="2700" rx="26" fill="url(#grid)"/>
 
   <!-- Top system info -->
-  <text x="60" y="62" class="mono tiny cyan">GOARB://PROFILE_PANEL_V2</text>
+  <text x="60" y="62" class="mono tiny cyan">GOARB://PROFILE_PANEL_V3</text>
   <text x="1140" y="62" text-anchor="end" class="mono tiny pink">STATUS://ONLINE</text>
   <rect x="60" y="84" width="1080" height="4" rx="2" fill="url(#neonLine)" filter="url(#glowSoft)"/>
 
@@ -73,9 +74,11 @@
   <!-- LIFE.EXE -->
   <text x="80" y="505" class="mono panelTitle cyan">// 🎬 LIFE.EXE</text>
   <rect x="80" y="530" width="1040" height="430" rx="22" fill="#08101C" fill-opacity="0.82" stroke="#00F7FF" stroke-opacity="0.42" stroke-width="2"/>
-  <image href="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJkOXR5NXA0cmJkb2QwdGU3ZWQ4dmx1ZDI2Y3o0OWJ2NmlzdDhvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W3keANaGsQLC5Ri8DM/giphy.gif"
+  <image href="img1.png"
          x="135" y="585" width="930" height="305" preserveAspectRatio="xMidYMid slice"/>
-  <text x="110" y="935" class="mono tiny muted">life.exe // animated panel</text>
+  <rect x="135" y="585" width="930" height="305" rx="8" stroke="#00F7FF" stroke-opacity="0.18" stroke-width="2"/>
+  <text x="600" y="750" text-anchor="middle" class="mono placeholder cyan" opacity="0.28">IMG1</text>
+  <text x="110" y="935" class="mono tiny muted">life.exe // replace with assets/img1.png</text>
 
   <!-- CURRENTLY -->
   <text x="80" y="1040" class="mono panelTitle pink">// 🚀 CURRENTLY</text>
@@ -88,9 +91,11 @@
   <!-- DEVELOPER MODE -->
   <text x="80" y="1410" class="mono panelTitle cyan">// 👾 DEVELOPER_MODE</text>
   <rect x="80" y="1435" width="1040" height="430" rx="22" fill="#0A101B" fill-opacity="0.82" stroke="#00F7FF" stroke-opacity="0.42" stroke-width="2"/>
-  <image href="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHM0bDlweWhxN2VoeDZ0M3ZxMGhmbDVmaGI5YmJwMGcyOGpoZzlncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"
+  <image href="img2.png"
          x="135" y="1490" width="930" height="305" preserveAspectRatio="xMidYMid slice"/>
-  <text x="110" y="1840" class="mono tiny muted">developer_mode // animated panel</text>
+  <rect x="135" y="1490" width="930" height="305" rx="8" stroke="#00F7FF" stroke-opacity="0.18" stroke-width="2"/>
+  <text x="600" y="1655" text-anchor="middle" class="mono placeholder cyan" opacity="0.28">IMG2</text>
+  <text x="110" y="1840" class="mono tiny muted">developer_mode // replace with assets/img2.png</text>
 
   <!-- Philosophy -->
   <text x="80" y="1930" class="mono panelTitle pink">// 🧠 PHILOSOPHY</text>
@@ -98,11 +103,13 @@
   <text x="600" y="2038" text-anchor="middle" class="mono quote cyan">while(alive) { learn(); code(); improve(); }</text>
   <text x="600" y="2104" text-anchor="middle" class="mono body white">💡 Learn → ⚙️ Build → 🐛 Break things → 🔧 Fix them → 🚀 Improve</text>
 
-  <!-- Meanwhile -->
+  <!-- Meanwhile image panel -->
   <text x="80" y="2260" class="mono panelTitle cyan">// ☕ MEANWHILE...</text>
-  <rect x="80" y="2285" width="1040" height="155" rx="22" fill="#09101C" fill-opacity="0.82" stroke="#00F7FF" stroke-opacity="0.42" stroke-width="2"/>
-  <text x="110" y="2348" class="mono body white">Thanks for visiting my profile! 👾</text>
-  <text x="110" y="2403" class="mono body lime">⌨️ Code. Learn. Repeat.</text>
-
-  <rect x="80" y="2458" width="1040" height="4" rx="2" fill="url(#neonLine)" filter="url(#glowSoft)"/>
+  <rect x="80" y="2285" width="1040" height="430" rx="22" fill="#09101C" fill-opacity="0.82" stroke="#00F7FF" stroke-opacity="0.42" stroke-width="2"/>
+  <image href="img3.png"
+         x="135" y="2340" width="930" height="305" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="135" y="2340" width="930" height="305" rx="8" stroke="#00F7FF" stroke-opacity="0.18" stroke-width="2"/>
+  <text x="600" y="2505" text-anchor="middle" class="mono placeholder cyan" opacity="0.28">IMG3</text>
+  <text x="110" y="2690" class="mono body white">Thanks for visiting my profile! 👾</text>
+  <text x="730" y="2690" class="mono body lime">⌨️ Code. Learn. Repeat.</text>
 </svg>
