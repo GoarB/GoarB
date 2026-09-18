@@ -62,11 +62,11 @@
 
   <!-- Name glitch layers -->
   <text x="598" y="190" text-anchor="middle" class="mono" font-size="74" font-weight="700"
-        fill="#FF1FBF" opacity="0.38" transform="translate(5,-2)">GOAR_BOSQUE</text>
+        fill="#FF1FBF" opacity="0.38" transform="translate(5,-2)">GOAR_GOAT</text>
   <text x="598" y="190" text-anchor="middle" class="mono" font-size="74" font-weight="700"
-        fill="#00F7FF" opacity="0.42" transform="translate(-5,2)">GOAR_BOSQUE</text>
+        fill="#00F7FF" opacity="0.42" transform="translate(-5,2)">GOAR_GOAT</text>
   <text x="598" y="190" text-anchor="middle" class="mono" font-size="74" font-weight="700"
-        fill="url(#neon)" filter="url(#cyanGlow)">GOAR_BOSQUE</text>
+        fill="url(#neon)" filter="url(#cyanGlow)">GOAR_GOAT</text>
 
   <text x="600" y="235" text-anchor="middle" class="mono" font-size="24" letter-spacing="4"
         fill="#F2F5FF">// DEVELOPMENT.STUDENT.exe</text>
