@@ -1,0 +1,79 @@
+{
+  "slug": "cyberpunk-neon-goar",
+  "name": "Cyberpunk Neon — Goar Bosque",
+  "kind": "svg",
+  "difficulty": "Advanced",
+  "blurb": "Cyberpunk developer profile for Goar Bosque.",
+  "asset": "assets/cyberpunk-neon.svg",
+  "picture": false,
+  "tags": [
+    "themed",
+    "cyberpunk",
+    "vaporwave",
+    "self-hosted"
+  ],
+  "services": [],
+  "placeholders": [
+    {
+      "token": "name",
+      "where": "markdown",
+      "description": "Title text, ALL_CAPS_WITH_UNDERSCORES",
+      "example": "GOAR_BOSQUE"
+    },
+    {
+      "token": "role",
+      "where": "asset",
+      "description": "Subtitle",
+      "example": "DEVELOPMENT.STUDENT"
+    },
+    {
+      "token": "location_stamp",
+      "where": "asset",
+      "description": "Top-left corner",
+      "example": "SANT_QUIRZE.SECTOR_BCN"
+    },
+    {
+      "token": "status_pill",
+      "where": "asset",
+      "description": "Bottom-left phrase",
+      "example": "JACKED IN · DEV MODE ACTIVE · LEARNING"
+    },
+    {
+      "token": "tags_list",
+      "where": "asset",
+      "description": "Four uppercase chip labels",
+      "example": "[ JAVA ] [ PYTHON ] [ GIT ] [ LINUX ]"
+    },
+    {
+      "token": "bio_lowercase",
+      "where": "markdown",
+      "description": "1–2 sentences in lowercase only",
+      "example": "development student based near barcelona, currently studying software development at itb."
+    },
+    {
+      "token": "currently_*",
+      "where": "markdown",
+      "description": "lowercase bullets",
+      "example": "studying development at itb · barcelona"
+    },
+    {
+      "token": "website",
+      "where": "markdown",
+      "description": "Domain",
+      "example": ""
+    },
+    {
+      "token": "twitter",
+      "where": "markdown",
+      "description": "Handle without @",
+      "example": ""
+    },
+    {
+      "token": "email",
+      "where": "markdown",
+      "description": "Email",
+      "example": ""
+    }
+  ],
+  "credits": []
+}
