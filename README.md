@@ -36,11 +36,11 @@ public class Goar {
 </div>
 
 🚀 Currently
+
 🎓 Studying Development at ITB — Barcelona
 💻 Learning Software Development
 🧠 Improving my programming skills every day
-🛠️ Building projects and experimenting with new technologies
-🌱 Always learning something new
+🛠️ Always learning something new
 
 <div align="center">
 
