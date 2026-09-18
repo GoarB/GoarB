@@ -10,7 +10,6 @@
 
 </div>
 
-👨‍💻 About me
 
 👋 Goar Bosque here!
 💻 Actually estuding Development at ITB (Barcelona)
